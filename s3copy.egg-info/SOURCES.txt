@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+s3copy/__init__.py
+s3copy/app.py
+s3copy.egg-info/PKG-INFO
+s3copy.egg-info/SOURCES.txt
+s3copy.egg-info/dependency_links.txt
+s3copy.egg-info/entry_points.txt
+s3copy.egg-info/requires.txt
+s3copy.egg-info/top_level.txt

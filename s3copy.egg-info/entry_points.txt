@@ -1,0 +1,2 @@
+[console_scripts]
+my-application = s3copy.app:upload_to_aws
